@@ -12,9 +12,3 @@ The goal of this project is to design and analyze control systems using differen
 - **Stability Analysis**: Evaluating system stability using Nyquist, Bode, and root locus plots.
 - **Simulation & Performance Evaluation**: Testing control designs under different conditions.
 
-## 🔧 Dependencies
-
-Ensure you have the following Python libraries installed before running the scripts:
-
-```bash
-pip install numpy scipy matplotlib control
